@@ -21,7 +21,7 @@ Assembly Endgame is a word-guessing game built using React. The player must gues
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/your-username/assembly-endgame.git
+   git clone https://github.com/rahul-singh92/assembly-endgame.git
    ```
 
 2. Navigate to the project directory:
